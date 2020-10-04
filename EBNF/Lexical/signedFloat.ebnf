@@ -1,0 +1,2 @@
+signedFloat ::= ["-"] float;
+level="lexical".

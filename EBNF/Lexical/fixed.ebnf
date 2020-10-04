@@ -1,0 +1,2 @@
+fixed ::= cardinal ["." [cardinal]];
+level="lexical".

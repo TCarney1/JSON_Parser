@@ -1,0 +1,2 @@
+number ::= cardinal | fixed | float | signedCardinal | signedFixed | signedFloat;
+level="lexical".

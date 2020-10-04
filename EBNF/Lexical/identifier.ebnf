@@ -1,0 +1,2 @@
+identifier ::= $letter$ {$letter$ | $digit$ | "_"};
+level="lexical".

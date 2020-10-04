@@ -1,0 +1,2 @@
+whitespace ::= {$whitespace char$}+;
+level="lexical".

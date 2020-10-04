@@ -1,0 +1,2 @@
+signedCardinal ::= ["-"] cardinal;
+level="lexical".

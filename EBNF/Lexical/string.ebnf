@@ -1,0 +1,2 @@
+string ::= "\"" {"\"\"" | $anything not \"$} "\"";
+level="lexical".

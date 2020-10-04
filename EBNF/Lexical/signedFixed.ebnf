@@ -1,0 +1,2 @@
+signedFixed ::= ["-"] fixed;
+level="lexical".
